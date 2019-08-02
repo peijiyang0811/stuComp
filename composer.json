@@ -1,0 +1,16 @@
+{
+    "name": "psfamily/stu-comp",
+    "description": "my first composer project",
+    "authors": [
+        {
+            "name": "peijiyang",
+            "email": "peijiyang@meishubao.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Psfamily\\stuComp\\":"src/Psfamily/stuComp"
+        }
+    }
+}
